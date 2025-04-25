@@ -21,7 +21,7 @@ This is a simple Guessing Game application built with Java Swing. The applicatio
 
 1. **Clone the repository**:
    ```bash
-   git clone https: https://github.com/tesso30/PRODIGY_SD_02/
+   git clone https: https://github.com/tesso30/GuessingGame
 Open the project in your IDE:
 
 If you're using IntelliJ IDEA, select File -> Open... and navigate to the directory where you cloned the repository.
